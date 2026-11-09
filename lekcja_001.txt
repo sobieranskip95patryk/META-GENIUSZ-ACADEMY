@@ -1,0 +1,17 @@
+META-GENIUSZ™ ACADEMY
+LEKCJA 001
+
+1. Czym jest Python?
+
+Python to język programowania, za pomocą którego człowiek zapisuje instrukcje, a komputer może je wykonywać.
+
+Przykładowo możemy polecić komputerowi:
+- obliczyć temperaturę;
+- zapisać dane;
+- przeanalizować ruch uliczny;
+- połączyć się z urządzeniem;
+- wygenerować raport.
+
+2. Do czego służy print()?
+
+print() wyświetla informacje w miejscu, w którym uruchomiony jest program. Najczęściej będzie to terminal, a nie pulpit Windows.

@@ -1,0 +1,1 @@
+print("Cześć, tu META-GENIUSZ!")
